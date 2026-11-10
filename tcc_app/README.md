@@ -21,7 +21,7 @@
   * **Jezer Martínez Pérez**
   * **Mariana Camila Olmos Pérez**
   * **Jesús David Guerrero Rada**
-* **Tutor Docente:** **Evelin Barco Llerena**
+* **Tutor Docente:** **Elkin José Navarro Osorio**
 * **Entregable Formal en Word:** [`docs/Informe_Final_Actividad_TCC.docx`](docs/Informe_Final_Actividad_TCC.docx) (22 páginas, estructurado bajo **Normas APA 7ª edición**, con tabla de contenido, árbol modular y 9 evidencias visuales integradas).
 
 ---
@@ -263,6 +263,6 @@ tcc_app/
 * **Mariana Camila Olmos Pérez**
 * **Jesús David Guerrero Rada**
 
-*Docente Asignado:* **Evelin Barco Llerena**  
+*Docente Asignado:* **Elkin José Navarro Osorio**  
 *Universidad de Cartagena — Ingeniería de Software*  
 *Octubre – Noviembre 2026*
