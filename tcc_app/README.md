@@ -1,5 +1,14 @@
 # 📦 Inventario · Sistema Móvil y Multiplataforma de Gestión de Stock (TCC)
 
+<p align="center">
+  <a href="https://github.com/Jezeriom/tcc_app_fifth/releases/latest/download/app-release.apk">
+    <img src="https://img.shields.io/badge/📲%20DESCARGAR%20APK%20DIRECTO-v1.0.0%20(54.5%20MB)-059669?style=for-the-badge&logo=android&logoColor=white" alt="Descargar APK Directo" />
+  </a>
+  <a href="https://github.com/Jezeriom/tcc_app_fifth/releases/tag/v1.0.0">
+    <img src="https://img.shields.io/badge/GitHub%20Releases-v1.0.0-1E293B?style=for-the-badge&logo=github&logoColor=white" alt="Ver Release" />
+  </a>
+</p>
+
 [![Flutter](https://img.shields.io/badge/Flutter-3.47.7-02569B?logo=flutter&logoColor=white)](https://flutter.dev)
 [![Dart](https://img.shields.io/badge/Dart-3.13.5-0175C2?logo=dart&logoColor=white)](https://dart.dev)
 [![SQLite](https://img.shields.io/badge/Database-SQLite%203-003B57?logo=sqlite&logoColor=white)](https://sqlite.org)
@@ -7,6 +16,10 @@
 [![Tests](https://img.shields.io/badge/Tests-6%2F6%20Passed%20(100%25)-success)](test/models_and_transactions_test.dart)
 [![Norma](https://img.shields.io/badge/Documento-APA%207%C2%AA%20Edici%C3%B3n-0F766E)](docs/Informe_Final_Actividad_TCC.docx)
 [![Plataformas](https://img.shields.io/badge/Plataformas-Android%20%7C%20Web%20%7C%20Windows-brightgreen)](#-guía-de-instalación-y-ejecución)
+
+> ### 📲 ¿Quieres probar la aplicación en tu teléfono Android?
+> **[👉 ¡Presiona aquí para descargar una copia del APK (app-release.apk)!](https://github.com/Jezeriom/tcc_app_fifth/releases/latest/download/app-release.apk)**  
+> *Descarga directa e instantánea sin necesidad de clonar el código ni explorar carpetas.*
 
 > **Solución móvil y multiplataforma *Offline-First*** para el control de inventarios comerciales, desarrollada en **Flutter** con persistencia relacional local en **SQLite**, arquitectura desacoplada por capas (**Clean Architecture**), gestión reactiva de estado con **Provider**, transacciones seguras **ACID** para entradas/salidas de mercancía y sistema de diseño **Material Design 3**.
 
