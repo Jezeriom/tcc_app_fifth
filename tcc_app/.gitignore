@@ -37,3 +37,11 @@ migrate_working_dir/
 
 # Ephemeral
 **/ephemeral/
+
+# Video deliverables (heavy media files hosted externally on YouTube)
+*.mp4
+*.mkv
+*.mov
+*.avi
+*.wmv
+*.webm
